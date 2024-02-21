@@ -180,3 +180,17 @@ clear
 node index.mjs
 clear
 pwd
+mkdir ccbp
+git init
+touch hello.txt
+nano hello
+touch mor.txt
+nano touch
+git add .
+git status
+git commit -m"gonee al"
+git remote add origin https://github.com/Redrouthuvenkatesh/codeone.git
+git branch
+git push -u origin master
+clear
+git push -u origin master
